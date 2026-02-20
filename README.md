@@ -14,7 +14,10 @@ Streamlit was used to build an interactive dashboard.
 Plotly was used for visualizations.
 
 ## Dashboard Screenshots
-(Add screenshots here)
+![Dashboard Wireframe](Screenshot 2026-02-21 000120.png)
+![Dashboard Wireframe](Screenshot 2026-02-21 000136.png)
+![Dashboard Wireframe](Screenshot 2026-02-21 000154.png)
+
 
 ## Key Insights
 Stock prices show upward trends post-2020.
