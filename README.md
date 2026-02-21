@@ -52,3 +52,23 @@ However, there are certain limitations associated with this project. The dashboa
 External factors such as economic policies, geopolitical events, inflation, interest rate changes, and company-specific news are not considered in this analysis, even though they can significantly impact stock market performance.
 
 Furthermore, the dashboard analyzes a limited number of companies and does not represent the entire stock market. As a result, the insights derived from this analysis may not be generalizable to all sectors or financial instruments.
+
+## How to Run This Project Locally
+
+To run this financial dashboard on your local machine, follow these steps:
+
+Clone the repository:
+
+git clone https://github.com/Safinat35/financial-dashboard.git
+
+Navigate to the project directory:
+
+cd financial-dashboard
+
+Install required Python libraries:
+
+pip install -r requirements.txt
+
+Run the Streamlit application:
+
+python -m streamlit run app.py
